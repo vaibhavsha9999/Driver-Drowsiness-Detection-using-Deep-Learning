@@ -12,7 +12,7 @@ This project implements computer vision and deep learning concepts to detect dro
 ## Project Overview
 - The project uses harcascade for the face and eye detection.
 - Using Transfer learning, the learning of InceptionV3 is transferred to use in the case of drowsiness detection.
-- For the training purposes [data](]https://www.kaggle.com/datasets/kutaykutlu/drowsiness-detection?select=closed_eye) is used.
+- For the training purposes [data](https://www.kaggle.com/datasets/kutaykutlu/drowsiness-detection?select=closed_eye) is used.
 - Output of model is simple binary classification, i.e. Eye close and Eye Open.
 
 ## How to Run the Project
