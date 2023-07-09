@@ -61,3 +61,4 @@ jobs:
           app-name: 'driverdrowsiness'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EE28E7D909544BBF84A4FADF157BEB08 }}
+          start-command: 'flask --app app run'
